@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "joy-of-motion-demo"
+    }
+  },
+  "defaultProject": "joy-of-motion-demo",
+  "cli": {
+    "analytics": "82cf787e-ae32-44ad-bc18-41afcebbf6fc"
+  }
 }

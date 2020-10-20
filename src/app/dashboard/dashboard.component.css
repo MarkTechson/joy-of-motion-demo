@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    border: none;
+}
+
+.content {
+    background-color: blue;
+}
+
+section.menu {
+    background-color: red;
+    height: 100vw;
+}
+
+section, article, div {
+    border: solid 1px;
+}
